@@ -1,0 +1,13 @@
+timestamp,packet_size,protocol,prediction
+2026-04-19 18:28:06,1996,UDP,Suspicious
+2026-04-19 18:28:08,320,ICMP,Normal
+2026-04-19 18:28:10,1712,TCP,Suspicious
+2026-04-19 18:28:12,569,TCP,Normal
+2026-04-19 18:28:14,1827,TCP,Suspicious
+2026-04-19 18:28:16,1388,ICMP,Suspicious
+2026-04-19 18:28:18,1851,TCP,Suspicious
+2026-04-19 18:28:20,842,ICMP,Suspicious
+2026-04-19 18:28:22,1426,TCP,Suspicious
+2026-04-19 18:28:24,762,TCP,Suspicious
+2026-04-19 18:28:26,604,UDP,Normal
+2026-04-19 18:28:28,1714,TCP,Suspicious
