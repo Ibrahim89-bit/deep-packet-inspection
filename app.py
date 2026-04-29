@@ -6,7 +6,7 @@ import pandas as pd
 st.title("AI-Based Deep Packet Inspection")
 
 # Load model
-model = joblib.load("models/random_forest_model.pkl")
+model = joblib.load("model/random_forest_model.pkl")
 
 # User input
 size = st.number_input("Packet Size", min_value=0)
